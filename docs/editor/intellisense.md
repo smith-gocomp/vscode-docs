@@ -7,7 +7,7 @@ PageTitle: IntelliSense in Visual Studio Code
 DateApproved: 11/1/2023
 MetaDescription:  Learn about Visual Studio Code IntelliSense (intelligent code completion).
 ---
-# IntelliSense
+# IntelliSense ko
 
 IntelliSense is a general term for various code editing features including: code completion, parameter info, quick info, and member lists. IntelliSense features are sometimes called by other names such as "code completion", "content assist", and "code hinting."
 
@@ -228,3 +228,4 @@ This can be caused by a variety of reasons. First, try restarting VS Code. If th
 ![image of IntelliSense showing no useful suggestions](images/intellisense/missing_typings.png)
 
 This issue is caused by missing type declaration (typings) files in JavaScript. You can check if a type declaration file package is available for a specific library by using the [TypeSearch](https://microsoft.github.io/TypeSearch) site. There is more information about this issue in the [JavaScript language topic](/docs/languages/javascript.md#intellisense). For other languages, please consult the extension's documentation.
+clear all
